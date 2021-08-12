@@ -14,7 +14,7 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="AvalonEdit" Version="6.1.1" />
+    <PackageReference Include="AvalonEdit" Version="6.1.2.30" />
     <PackageReference Include="Dirkster.AvalonDock" Version="4.50.3" />	
 	</ItemGroup>
   <ItemGroup>
